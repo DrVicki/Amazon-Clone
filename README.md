@@ -7,10 +7,7 @@
 
 # Amazon Clone
 
-[Amazon Clone](https://clone-124e6.web.app/) is a web application developed using React, with a Google Firebase back-end. This project was developed throughout the winter break in my third year of studies as a computer science undergraduate.
-
-The features of Amazon Clone can be viewed [here](https://shawnlsj97.github.io/Amazon-Clone/).
-
+[Amazon Clone](https://clone-124e6.web.app/) is a web application developed using React, with a Google Firebase back-end and Stripe Payment. 
 The purpose of this project is to explore full-stack web development, which we are not exposed to during the course of our studies.
 
 <img src="./docs/media/home.png" width="350">
@@ -72,9 +69,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Authors
 
-Shawn Lee - [@shawnlsj97](https://github.com/shawnlsj97) on GitHub
+Dr. Vicki Bealman - [DrVicki](https://github.com/DrVicki) on GitHub
 
 ## License
 
-Amazon Clone is [MIT-licensed](https://github.com/shawnlsj97/Amazon-Clone/blob/master/LICENSE).
+Amazon Clone is [MIT-licensed](https://github.com/DrVicki/Amazon-Clone-Master/blob/master/LICENSE).
 # Amazon-Clone
